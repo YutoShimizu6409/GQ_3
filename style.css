@@ -1,0 +1,10 @@
+.favorite{
+  display: block;
+	background-color: rgb(240, 127, 127);
+	color: rgb(8, 0, 0);
+	font-weight: bold;
+	border-radius: 5px;
+	border: 0px;
+	font-size: 15px;
+}
+
